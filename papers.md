@@ -1,28 +1,6 @@
-# Papers We Love, or Hate
-
-## Discussed
-
-1. Sims-2018-Science
-1. Chang-Jazayeri-2018-PNAS
-1. Rajalingham-etal-DiCarlo-2018-JoN
-
-## Read
-
-1. Lisi-Cavanagh-2015-CB
-
-## Running List of Suggestions
-
-1. Murry-etal-Tadin-2018-CB
-1. Kown-etal-Knill-2015-PNAS
-1. vanHeusden-etal-Hogendoorn-2018-JoN
-1. O'Toole-etal-Chellappa-2018-TiCS
-
-## Running List of Discoveries
-
-
 # Full Reference
 
-1. Chang, C. J., & Jazayeri, M. (2018). Integration of speed and time for estimating time to contact. Proceedings of the National Academy of Sciences, 115(12), E2879-E2887.
+1. Chang, C. J., & Jazayeri, M. (2018). Integration of speed and time for estimating time to contact. Proceedings of the National Academy of Sciences, 115(12), E2879-E2887.{#Chang-Jazayeri-2018-PNAS}
 1. Kwon, O. S., Tadin, D., & Knill, D. C. (2015). Unifying account of visual motion and position perception. Proceedings of the National Academy of Sciences, 112(26), 8142-8147.
 1. Lisi, M., & Cavanagh, P. (2015). Dissociation between the perceptual and saccadic localization of moving objects. Current Biology, 25(19), 2535-2540.
 1. Murray, S. O., Schallmo, M. P., Kolodny, T., Millin, R., Kale, A., Thomas, P., Rammsayer, T., Troche, S., Bernier, R., & Tadin, D. (2018). Sex Differences in Visual Motion  Processing. Current Biology.
