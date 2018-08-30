@@ -1,8 +1,8 @@
 ## Discussed
 
-1. Sims-2018-Science
+1. [Sims-2018-Science](paper.md#Sims-2018-Science)
 1. [Chang-Jazayeri-2018-PNAS](paper.md#Chang-Jazayeri-2018-PNAS)
-1. [Rajalingham-etal-DiCarlo-2018-JoN]
+1. [Rajalingham-etal-DiCarlo-2018-JoN](paper.md#Rajalingham-etal-DiCarlo-2018-JoN)
 
 ## Read
 
