@@ -1,5 +1,7 @@
 # Discussion
 
+see [reference](papers.md#full-reference) for full citation.
+
 ## Discussion History
 |   Date   |             Paper ID             |
 |----------|----------------------------------|
