@@ -6,6 +6,9 @@
 
 <li id="Kown2015"> Kwon, O. S., Tadin, D., & Knill, D. C. (2015). Unifying account of visual motion and position perception. Proceedings of the National Academy of Sciences, 112(26), 8142-8147.</li>
 
+
+<li id="LiSummerfield2018"> Li, V., Michael, E., Balaguer, J., Castañón, S. H., & Summerfield, C. (2018). Gain control explains the effect of distraction in human perceptual, cognitive, and economic decision making. Proceedings of the National Academy of Sciences, 201805224.</li>
+
 <li id="Lisi2015"> Lisi, M., & Cavanagh, P. (2015). Dissociation between the perceptual and saccadic localization of moving objects. Current Biology, 25(19), 2535-2540.</li>
 
 <li id="Murray2018"> Murray, S. O., Schallmo, M. P., Kolodny, T., Millin, R., Kale, A., Thomas, P., Rammsayer, T., Troche, S., Bernier, R., & Tadin, D. (2018). Sex Differences in Visual Motion  Processing. Current Biology.</li>
@@ -19,3 +22,7 @@
 <li id="vanHeusden2018"> van Heusden, E., Rolfs, M., Cavanagh, P., & Hogendoorn, H. (2018). Motion extrapolation for eye movements predicts perceived motion-induced position shifts. Journal of Neuroscience, 0736-18. </li>
 
 </ul>
+
+**To-do:**
+
+- Kool, W., & Botvinick, M., (2018). Mental Labour. Nature Human Behaviour,
