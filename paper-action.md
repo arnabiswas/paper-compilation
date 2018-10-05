@@ -16,6 +16,8 @@
 1. [O'Toole-etal-Chellappa-2018-TiCS](papers.md#Otoole2018)
 1. [Li-Summerfield-2018-PNAS](papers.md#LiSummerfield2018)
 1. [Wool-Botvinick-2018-NHB](papers.md#Wool2018)
+1. [Alexandre-etal-Giovanni-2018-Neuropsychologia](papers.md#AlexandreGiovanni2018)
+1. [Simonicini-etal-Masson-2012-NN](papers.md#SimonciniMasson2012)
 
 ## Running List of Discoveries
 

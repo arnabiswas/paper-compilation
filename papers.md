@@ -21,8 +21,13 @@
 
 <li id="vanHeusden2018"> van Heusden, E., Rolfs, M., Cavanagh, P., & Hogendoorn, H. (2018). Motion extrapolation for eye movements predicts perceived motion-induced position shifts. Journal of Neuroscience, 0736-18. </li>
 
+<li id="Wool2018"> Kool, W., & Botvinick, M., (2018). Mental Labour. Nature Human Behaviour</li>
+<li id="AlexandreGiovanni2018">Alexandre, Z., Oleg, S., & Giovanni, P. (2018). An information-theoretic perspective on the costs of cognition. Neuropsychologia. </li>
+<li id="SimonciniMasson2012">Simoncini, C., Perrinet, L. U., Montagnini, A., Mamassian, P., & Masson, G. S. (2012). More is not always better: adaptive gain control explains dissociation between perception and action. Nature neuroscience, 15(11), 1596. </li>
+
+
 </ul>
 
 **To-do:**
 
-- Kool, W., & Botvinick, M., (2018). Mental Labour. Nature Human Behaviour,
+- Frank, S. A. (2018). Measurement invariance explains the universal law of generalization for psychological perception. bioRxiv, 341305.
