@@ -6,6 +6,9 @@
 
 <li id="Kown2015"> Kwon, O. S., Tadin, D., & Knill, D. C. (2015). Unifying account of visual motion and position perception. Proceedings of the National Academy of Sciences, 112(26), 8142-8147.</li>
 
+
+<li id="LiSummerfield2018"> Li, V., Michael, E., Balaguer, J., Castañón, S. H., & Summerfield, C. (2018). Gain control explains the effect of distraction in human perceptual, cognitive, and economic decision making. Proceedings of the National Academy of Sciences, 201805224.</li>
+
 <li id="Lisi2015"> Lisi, M., & Cavanagh, P. (2015). Dissociation between the perceptual and saccadic localization of moving objects. Current Biology, 25(19), 2535-2540.</li>
 
 <li id="Murray2018"> Murray, S. O., Schallmo, M. P., Kolodny, T., Millin, R., Kale, A., Thomas, P., Rammsayer, T., Troche, S., Bernier, R., & Tadin, D. (2018). Sex Differences in Visual Motion  Processing. Current Biology.</li>
@@ -18,4 +21,18 @@
 
 <li id="vanHeusden2018"> van Heusden, E., Rolfs, M., Cavanagh, P., & Hogendoorn, H. (2018). Motion extrapolation for eye movements predicts perceived motion-induced position shifts. Journal of Neuroscience, 0736-18. </li>
 
+<li id="Wool2018"> Kool, W., & Botvinick, M., (2018). Mental Labour. Nature Human Behaviour</li>
+<li id="AlexandreGiovanni2018">Alexandre, Z., Oleg, S., & Giovanni, P. (2018). An information-theoretic perspective on the costs of cognition. Neuropsychologia. </li>
+
+<li id="SimonciniMasson2012">Simoncini, C., Perrinet, L. U., Montagnini, A., Mamassian, P., & Masson, G. S. (2012). More is not always better: adaptive gain control explains dissociation between perception and action. Nature neuroscience, 15(11), 1596. </li>
+
+
 </ul>
+
+**To-do:**
+
+- Frank, S. A. (2018). Measurement invariance explains the universal law of generalization for psychological perception. bioRxiv, 341305.
+- Remington, E. D., Parks, T. V., & Jazayeri, M. (2018). Late Bayesian inference in mental transformations. Nature communications, 9(1), 4419.
+- Flesch, T., Balaguer, J., Dekker, R., Nili, H., & Summerfield, C. (2018). Comparing continual task learning in minds and machines. Proceedings of the National Academy of Sciences, 115(44), E10313-E10322.
+- Vogelsang, L., Gilad-Gutnick, S., Ehrenberg, E., Yonas, A., Diamond, S., Held, R., & Sinha, P. (2018). Potential downside of high initial visual acuity. Proceedings of the National Academy of Sciences, 115(44), 11333-11338.
+- Mann, R. P. (2018). Collective decision making by rational individuals. Proceedings of the National Academy of Sciences, 115(44), E10387-E10396.
