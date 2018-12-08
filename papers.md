@@ -26,6 +26,11 @@
 
 <li id="SimonciniMasson2012">Simoncini, C., Perrinet, L. U., Montagnini, A., Mamassian, P., & Masson, G. S. (2012). More is not always better: adaptive gain control explains dissociation between perception and action. Nature neuroscience, 15(11), 1596. </li>
 
+<li id="Flesh2018">Flesch, T., Balaguer, J., Dekker, R., Nili, H., & Summerfield, C. (2018). Comparing continual task learning in minds and machines. Proceedings of the National Academy of Sciences, 115(44), E10313-E10322.</li>
+
+<li id="Rossion2018">Rossion, B., & Taubert, J. (2018). What can we learn about human individual face recognition from experimental studies in monkeys?. Vision research.</li>
+
+<li id="Rossion2017">Rossion, B., & Taubert, J. (2017). Commentary: The Code for Facial Identity in the Primate Brain. Frontiers in human neuroscience, 11, 550.</li>
 
 </ul>
 
@@ -33,6 +38,5 @@
 
 - Frank, S. A. (2018). Measurement invariance explains the universal law of generalization for psychological perception. bioRxiv, 341305.
 - Remington, E. D., Parks, T. V., & Jazayeri, M. (2018). Late Bayesian inference in mental transformations. Nature communications, 9(1), 4419.
-- Flesch, T., Balaguer, J., Dekker, R., Nili, H., & Summerfield, C. (2018). Comparing continual task learning in minds and machines. Proceedings of the National Academy of Sciences, 115(44), E10313-E10322.
 - Vogelsang, L., Gilad-Gutnick, S., Ehrenberg, E., Yonas, A., Diamond, S., Held, R., & Sinha, P. (2018). Potential downside of high initial visual acuity. Proceedings of the National Academy of Sciences, 115(44), 11333-11338.
 - Mann, R. P. (2018). Collective decision making by rational individuals. Proceedings of the National Academy of Sciences, 115(44), E10387-E10396.
