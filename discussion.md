@@ -5,6 +5,7 @@ see [reference](papers.md#full-reference) for full citation.
 ## Discussion History
 |   Date   |             Paper ID             |
 |----------|----------------------------------|
+|2018/12/23|[Vogelsang-etal-Sinha-2018-PNAS](papers.md#Vogelsang2018)|
 |2018/12/08|[Rossion-Taubert-2017-FrontHumNeurosci](papers.md#Rossion2017) & [Rossio-Taubert-2018-VR](papers.md#Rossion2018)|
 |2018/11/17|[Flesch-2018](papers.md#Flesh2018)|
 |2018/11/03|[Kwon-Tadin-Knill-2015-PNAS](papers.md#Kown2015)|
